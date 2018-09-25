@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """
 fetcher.py is an executable script which
 provides function fetch() available for importing

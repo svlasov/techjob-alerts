@@ -43,4 +43,4 @@ def sample_search_projects():
 
 p = sample_search_projects()
 if p:
-    pprint.pprint('Found projects: {}'.format(p))
+    pprint.pprint('Found projects: {}'.format(len(p["projects"])))
